@@ -7,17 +7,15 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Shopify</h1>
+            <p>An e-commerce platform that allows 
+               businesses to create, manage, and grow online stores. </p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
                 <span>Google Play</span>
               </div>
-              <div className='img d_flex'>
-                <i class='fa-brands fa-app-store-ios'></i>
-                <span>App Store</span>
-              </div>
+              
             </div>
           </div>
 
@@ -31,22 +29,13 @@ const Footer = () => {
               <li>Privacy Policy</li>
             </ul>
           </div>
-          <div className='box'>
-            <h2>Customer Care</h2>
-            <ul>
-              <li>Help Center </li>
-              <li>How to Buy </li>
-              <li>Track Your Order </li>
-              <li>Corporate & Bulk Purchasing </li>
-              <li>Returns & Refunds </li>
-            </ul>
-          </div>
+        
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Islamabad</li>
+              <li>Email: haasham93@gmail.com</li>
+              <li>Phone: +92 300 3566659</li>
             </ul>
           </div>
         </div>
