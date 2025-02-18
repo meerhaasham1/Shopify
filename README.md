@@ -26,11 +26,11 @@ shopify-store/
 
 ## Features
 
-- **Product List**: Displays a list of available products.
-- **Product Detail Page**: Users can view details of products.
-- **Add to Cart**: Allows users to add products to their shopping cart.
-- **Shopping Cart**: View and manage items in the cart.
-- **Checkout**: Basic checkout form.
+- Product List: Displays a list of available products.
+- Product Detail Page: Users can view details of products.
+- Add to Cart: Allows users to add products to their shopping cart.
+- Shopping Cart: View and manage items in the cart.
+- Checkout: Basic checkout form.
 
 ## Installation
 
